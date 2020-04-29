@@ -1,0 +1,6 @@
+Z:\dev\Legacy\WebLegacy\WebLegacy\bin\WebLegacy.dll.config
+Z:\dev\Legacy\WebLegacy\WebLegacy\bin\WebLegacy.dll
+Z:\dev\Legacy\WebLegacy\WebLegacy\bin\WebLegacy.pdb
+Z:\dev\Legacy\WebLegacy\WebLegacy\obj\Debug\WebLegacy.csprojAssemblyReference.cache
+Z:\dev\Legacy\WebLegacy\WebLegacy\obj\Debug\WebLegacy.dll
+Z:\dev\Legacy\WebLegacy\WebLegacy\obj\Debug\WebLegacy.pdb
